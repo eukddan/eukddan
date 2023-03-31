@@ -1,4 +1,4 @@
-# euk_ddan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=euk%20ddan&fontSize=90" />
 <!--
 **eukddan/eukddan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
